@@ -93,7 +93,7 @@ To run P-BOX from source or contribute to development:
 #### 🔨 Step-by-Step Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/star8618/P-BOX.git
+   git clone https://github.com/s1545151561/p-box.git
    cd P-BOX
    ```
 
