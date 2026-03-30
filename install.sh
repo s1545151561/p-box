@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # P-BOX Linux One-Click Installation Script
-# https://github.com/star8618/P-BOX
+# https://github.com/s1545151561/P-BOX
 
 set -e
 
@@ -17,7 +17,7 @@ NC='\033[0m'
 INSTALL_DIR="/etc/p-box"
 SERVICE_NAME="p-box"
 DEFAULT_PORT=8666
-GITHUB_REPO="star8618/P-BOX"
+GITHUB_REPO="s1545151561/P-BOX"
 GITHUB_API="https://api.github.com/repos/${GITHUB_REPO}/releases/latest"
 
 echo -e "${CYAN}"
